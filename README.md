@@ -1,3 +1,4 @@
 # First CI
 
-dev branch 
+dev branch
+checking commit works
